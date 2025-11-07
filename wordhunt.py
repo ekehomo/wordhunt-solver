@@ -294,7 +294,7 @@ class WordHuntSolver:
         self._PRE_FOCUS = 0.45
         self._DOWN_DELAY = 0.03
         self._DRAG_DELAY = 0.03
-        self._POST_WORD = 0.070
+        self._POST_WORD = 0.085
 
         # Load trained weights (supports external override)
         self._model_path_in_use = None

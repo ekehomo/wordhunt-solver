@@ -414,4 +414,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Disclaimer**: This tool is for educational purposes. Use responsibly and in accordance with GamePigeon's terms of service.
 
-**Note**: This README was generated with assistance from AI tools. While the technical information is accurate, please verify details against the source code and documentation.
+**Note**: This README was generated (entirely) with assistance from AI tools. While the technical information is accurate, please verify details against the source code and documentation.
