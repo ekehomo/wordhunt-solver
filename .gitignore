@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+*.log.*
+
+# Training dataset index files (dataset itself is committed)
+letter_dataset/.index.json
+letter_dataset/.hashes.txt
+
+# User-specific config (created at runtime)
+~/.wordhunt/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# PyInstaller
+*.spec.bak
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
